@@ -1,3 +1,4 @@
+#Saber si un número es primo en un rango de valores
 import time
 inicio = time.time()
 
