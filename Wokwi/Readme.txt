@@ -8,3 +8,4 @@ https://wokwi.com/projects/375456915110924289
 https://wokwi.com/projects/375457851214604289
 
 # Potenciómetro
+https://wokwi.com/projects/375458593473283073
