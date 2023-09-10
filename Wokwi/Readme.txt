@@ -4,7 +4,7 @@ https://wokwi.com/projects/375452805980506113
 # Led con funciones
 https://wokwi.com/projects/375456915110924289
 
-# Led con botón
-
+# Led con pulsador
+https://wokwi.com/projects/375457851214604289
 
 # Potenciómetro
