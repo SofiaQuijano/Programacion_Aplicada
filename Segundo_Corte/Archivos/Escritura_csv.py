@@ -8,4 +8,4 @@ canciones = [
 
 with open ("canciones.csv", "w", newline="") as file:
     writer = csv.writer(file, delimiter= ",")
-    writer (canciones)
+    writer.writerows (canciones)
