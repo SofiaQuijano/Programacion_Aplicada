@@ -16,4 +16,4 @@ def read_potentiometer():
 while True:
     pot_value = read_potentiometer()
     print("Valor del potenciómetro:", pot_value)
-    time.sleep(1.0) 
+    time.sleep(0.5) 
