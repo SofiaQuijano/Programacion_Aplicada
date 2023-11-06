@@ -6,9 +6,9 @@ import urequests
 # Configuración del potenciómetro
 adc = ADC(Pin(34))
 
-WIFI_SSID = "ISAZA"
-WIFI_PASS = "2025081998"
-THINGSPEAK_API_KEY = "NNBDH1Z2K5UEUH36"
+WIFI_SSID = "red"
+WIFI_PASS = "clave"
+THINGSPEAK_API_KEY = "contraseña_Thingspeak"
 
 # Conexión a Wi-Fi
 station = network.WLAN(network.STA_IF)
